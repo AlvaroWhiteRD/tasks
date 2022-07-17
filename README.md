@@ -1,6 +1,7 @@
 # tasks --app todo.
 
-que necesitamos?
+que necesitamos? pues, lo primero seria usar ##react native cli
+
 ![image](https://user-images.githubusercontent.com/69123582/179417431-c500e3c9-84d6-4eed-9fd9-b491613096b2.png)
 
 
